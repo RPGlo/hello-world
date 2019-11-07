@@ -1,2 +1,3 @@
 # hello-world
-Second repository for Guide exercise
+
+Hold fast is the only dog, my duck.
